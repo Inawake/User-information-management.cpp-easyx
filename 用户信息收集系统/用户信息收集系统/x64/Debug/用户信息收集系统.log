@@ -1,0 +1,3 @@
+﻿  system1.cpp
+C:\Users\en\Desktop\code\用户信息收集系统\用户信息收集系统\system1.cpp(155,1): warning C4715: “isexist”: 不是所有的控件路径都返回值
+  用户信息收集系统.vcxproj -> C:\Users\en\Desktop\code\用户信息收集系统\x64\Debug\用户信息收集系统.exe
